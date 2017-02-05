@@ -10,7 +10,7 @@ import android.widget.RadioGroup;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity
-    implements View.OnClickListener, View.OnLongClickListener {
+        implements View.OnClickListener, View.OnLongClickListener {
 
     //
     @Override
